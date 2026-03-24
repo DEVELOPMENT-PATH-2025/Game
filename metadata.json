@@ -1,0 +1,5 @@
+{
+  "name": "The Regex Sniper",
+  "description": "A high-speed educational shooting game where you eliminate malformed data strings using regular expressions.",
+  "requestFramePermissions": []
+}
